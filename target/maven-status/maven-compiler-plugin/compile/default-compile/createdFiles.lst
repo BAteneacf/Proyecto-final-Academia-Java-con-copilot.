@@ -1,0 +1,11 @@
+com\academia\batch\config\BatchConfig$3.class
+com\academia\batch\config\BatchConfig.class
+com\academia\batch\config\BatchConfig$2.class
+com\academia\SpringBatchApplication.class
+com\academia\batch\processor\ReporteEstudianteProcessor.class
+com\academia\batch\config\BatchConfig$1$1.class
+com\academia\batch\processor\EstudianteProcessor.class
+com\academia\batch\model\Estudiante.class
+com\academia\batch\config\BatchConfig$1.class
+com\academia\batch\model\EstudianteReporte.class
+com\academia\batch\config\BatchConfig$1$2.class
